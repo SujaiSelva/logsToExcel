@@ -56,4 +56,4 @@ function processLogs (errorResultData) {
 function checkDateFormate(dateValue) {
     return moment(dateValue, "YYYY-MM-DD HH:mm:ss").isValid();
 }
-
+//Test
